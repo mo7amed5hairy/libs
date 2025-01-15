@@ -1,9 +1,9 @@
 /**
  *
- * @description JavaScript Hijri Date Function
- * @version 1.0
+ * @description  Hijri Date Function
+ * @version 1.1
  * 
- * @author (c) ZulNs, Yogyakarta, December 2013
+ * @author (c) mo7amed5hairy, Egypt, January 2025
  * 
  * @namespace HijriDate
  */
